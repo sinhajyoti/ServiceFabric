@@ -1,0 +1,1 @@
+D:\VS2015Projects\SFService2\MyStatelessService2\obj\x64\Debug\MyStatelessService2.sfprojResolveAssemblyReference.cache
